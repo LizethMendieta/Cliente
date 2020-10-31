@@ -1,0 +1,11 @@
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\bin\Debug\netcoreapp2.1\Servidor2.deps.json
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\bin\Debug\netcoreapp2.1\Servidor2.runtimeconfig.json
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\bin\Debug\netcoreapp2.1\Servidor2.runtimeconfig.dev.json
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\bin\Debug\netcoreapp2.1\Servidor2.dll
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\bin\Debug\netcoreapp2.1\Servidor2.pdb
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\obj\Debug\netcoreapp2.1\Servidor2.csprojAssemblyReference.cache
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\obj\Debug\netcoreapp2.1\Servidor2.csproj.CoreCompileInputs.cache
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\obj\Debug\netcoreapp2.1\Servidor2.AssemblyInfoInputs.cache
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\obj\Debug\netcoreapp2.1\Servidor2.AssemblyInfo.cs
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\obj\Debug\netcoreapp2.1\Servidor2.dll
+C:\Users\Mendi\Source\Repos\Servidor2\Servidor2\obj\Debug\netcoreapp2.1\Servidor2.pdb
